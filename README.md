@@ -8,9 +8,11 @@ The goal of this project was to implement a fully functional neural network with
 -Architecture: 784 Input into 128 Hidden (ReLU activation function) into 10 Output (Softmax activation function)
 
 1- Install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 2-Run the project:
-
+```bash
 python main.py
+```
